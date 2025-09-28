@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/page.style/home-StyleSheet.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+    
+    <!--Header-->
+    <section id="header">
+        <a href="#"><img src="~/Pictures/Phoenix.png" class="logo" alt="Phoenix" width="100" height="100" /></a>
+
+        <div>
+            <ul id="navbar">
+                <li><a class="active" href="Index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="card.html"><i class="fa-solid fa-bag-shopping"></i></a></li>
+            </ul>
+        </div>
+    </section>
+
+    <!--Home_Page-->
+     
+    <section id="home_page">
+        <img src="~/Pictures/background7.jpg" />
+        <img src="~/Pictures/background1.jpg" />
+        <img src="~/Pictures/background2.jpg" />
+        <img src="~/Pictures/background3.jpg" />
+        <img src="~/Pictures/background4.jpg" />
+        <img src="~/Pictures/background5.jpg" />
+        <img src="~/Pictures/background6.jpg" />
+    </section>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

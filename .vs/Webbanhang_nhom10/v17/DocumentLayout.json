@@ -1,12 +1,87 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Webbanhang_Nhom10\\Webbanhang_nhom10\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|c:\\users\\dangd\\onedrive\\desktop\\webbanhang_nhom10\\webbanhang_nhom10\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home-StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\home-StyleSheet.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\home-StyleSheet.css",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\home-StyleSheet.css",
+              "RelativeToolTip": "Content\\page.style\\home-StyleSheet.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-28T08:01:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TrangChu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Index.cshtml",
+              "RelativeToolTip": "Views\\TrangChu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T07:43:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Home.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\Home.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T07:32:50.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChuController.cs",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Controllers\\TrangChuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrangChuController.cs",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Controllers\\TrangChuController.cs",
+              "RelativeToolTip": "Controllers\\TrangChuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:34:16.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
