@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ShopController.cs" />
     <Compile Include="Controllers\TrangChuController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -144,7 +145,24 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\Img\Tshirt\ao-den-01-back.jpg" />
+    <Content Include="Content\Img\Tshirt\ao-den-01-font.jpg" />
+    <Content Include="Content\Img\Tshirt\ao-trang-01-back.jpg" />
+    <Content Include="Content\Img\Tshirt\ao-trang-01-font.jpg" />
+    <Content Include="Content\Img\Tshirt\binh-tan-back.jpg" />
+    <Content Include="Content\Img\Tshirt\binh-tan-font.jpg" />
+    <Content Include="Content\Img\Tshirt\black-polo-back.jpg" />
+    <Content Include="Content\Img\Tshirt\black-polo-font.jpg" />
+    <Content Include="Content\Img\Tshirt\cream-polo-back.jpg" />
+    <Content Include="Content\Img\Tshirt\cream-polo-font.jpg" />
+    <Content Include="Content\Img\Tshirt\Hanoi-back.jpg" />
+    <Content Include="Content\Img\Tshirt\Hanoi-font.jpg" />
+    <Content Include="Content\Img\Tshirt\messi-back.jpg" />
+    <Content Include="Content\Img\Tshirt\messi-font.jpg" />
+    <Content Include="Content\Img\Tshirt\wild-west-back.jpg" />
+    <Content Include="Content\Img\Tshirt\wild-west-font.jpg" />
     <Content Include="Content\page.style\home-StyleSheet.css" />
+    <Content Include="Content\page.style\Shop-StyleSheet.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -190,6 +208,8 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Home.cshtml" />
     <Content Include="Views\TrangChu\Index.cshtml" />
+    <Content Include="Views\Shop\Index.cshtml" />
+    <Content Include="Views\Shared\_LayoutShop.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
