@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Huflit_web\\Sneaker\\",
+  "WorkspaceRootPath": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|c:\\users\\dangd\\onedrive\\desktop\\webbanhang_nhom10\\webbanhang_nhom10\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|c:\\users\\dangd\\onedrive\\desktop\\webbanhang_nhom10\\webbanhang_nhom10\\views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -30,27 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TrangChu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Index.cshtml",
+              "RelativeToolTip": "Views\\TrangChu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T17:21:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_LayoutBestseller.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutBestseller.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutBestseller.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutBestseller.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutBestseller.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutBestseller.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutBestseller.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -59,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Bestseller\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Bestseller\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Bestseller\\Index.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Bestseller\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Bestseller\\Index.cshtml",
               "RelativeToolTip": "Views\\Bestseller\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,11 +77,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Shop-StyleSheet.css",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\Shop-StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\Shop-StyleSheet.css",
               "RelativeDocumentMoniker": "Content\\page.style\\Shop-StyleSheet.css",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\Shop-StyleSheet.css",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\Shop-StyleSheet.css",
               "RelativeToolTip": "Content\\page.style\\Shop-StyleSheet.css",
               "ViewState": "AgIAADoAAAAAAAAAAAAAAEQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -84,29 +89,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_LayoutShop.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutShop.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutShop.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutShop.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutShop.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T17:29:37.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T17:29:37.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-28T17:21:42.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T17:21:42.722Z"
             }
           ]
         }
