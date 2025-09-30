@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Huflit_web\\Sneaker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shop-StyleSheet.css",
               "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\Shop-StyleSheet.css",
               "RelativeDocumentMoniker": "Content\\page.style\\Shop-StyleSheet.css",
@@ -46,31 +46,30 @@
               "RelativeToolTip": "Content\\page.style\\Shop-StyleSheet.css",
               "ViewState": "AgIAADoAAAAAAAAAAAAAAEQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-29T08:13:56.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T08:13:56.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_LayoutShop.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutShop.cshtml",
               "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutShop.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwBkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-28T17:29:37.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
               "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-28T17:21:42.722Z",
               "EditorCaption": ""
