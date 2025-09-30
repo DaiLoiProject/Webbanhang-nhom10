@@ -1,29 +1,24 @@
 ﻿<!DOCTYPE html>
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
+    <title>Bestsellers</title>
     <link href="~/Content/page.style/Shop-StyleSheet.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
-    <!-- link font tren gg font -->
+    <!-- link font google -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Poppins', sans-serif;
         }
     </style>
-
 </head>
 <body>
 
-
-    
     <!--Header-->
     <section id="header">
-
-        <!-- Navbar + logo + icons -->3
+        <!-- Navbar + logo + icons -->
         <div class="header-center-inner">
             <!-- Left: social icons -->
             <div class="header-left">
@@ -47,14 +42,12 @@
             </div>
         </div>
 
-
-
-
+        <!-- Navbar -->
         <div>
             <ul id="navbar">
                 <li><a href="@Url.Action("Index", "TrangChu")">HOME</a></li>
-                <li><a class="active" href="@Url.Action("Index", "Shop")">SHOP</a></li>
-                <li><a class="bestseller.html"  href="@Url.Action("Index", "Shop")">BESTSELLERS</a></li> 
+                <li><a href="@Url.Action("Index", "Shop")">SHOP</a></li>
+                <li><a class="active" href="@Url.Action("Index", "Bestsellers")">BESTSELLERS</a></li>
                 <li><a href="about.html">COLLECTIONS</a></li>
             </ul>
         </div>
@@ -62,8 +55,11 @@
 
     <!--Hero-->
     <section id="hero">
-        <h1>Products</h1>
-        <p>Home / Products</p>
+        <h1>Bestsellers</h1>
+        <p>Home / Bestsellers</p><br />
+        <p> Thanh xuân như một tách trà </p><br />
+        <p>Không săn sale sớm hết bà thanh xuân.</p><br />
+        <p>Những sản phẩm hot hit nhất của shop hiện tại</p>
         <hr />
     </section>
 
@@ -73,7 +69,7 @@
         <aside id="sidebar">
             <ul class="sidebar-menu">
                 <li class="sidebar-item">
-                    <button class="sidebar-btn">Collections <i class="fa-solid fa-chevron-down"></i></button>
+                    <button class="sidebar-btn">Categories <i class="fa-solid fa-chevron-down"></i></button>
                     <ul class="submenu">
                         <li><a href="#">T-Shirts</a></li>
                         <li><a href="#">Hoodies</a></li>
@@ -87,13 +83,6 @@
                         <li><a href="#">Out of Stock</a></li>
                     </ul>
                 </li>
-                <li class="sidebar-item">
-                    <button class="sidebar-btn">Product <i class="fa-solid fa-chevron-down"></i></button>
-                    <ul class="submenu">
-                        <li><a href="#">New Arrivals</a></li>
-                        <li><a href="#">Best Sellers</a></li>
-                    </ul>
-                </li>
             </ul>
         </aside>
 
@@ -101,44 +90,9 @@
         <section id="product1">
             <div class="pro-container">
                 <div class="pro">
-                    <img src="~/Content/Img/Tshirt/ao-den-01-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Patch In Heart T-Shirt Black</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/ao-trang-01-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Patch In Heart T-Shirt White</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
                     <img src="~/Content/Img/Tshirt/binh-tan-font.jpg">
                     <div class="des">
                         <h5>DirtyCoins Bình Tân Embroidered Polo Black</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/black-polo-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Rope Embroidery Knit Polo Black</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/cream-polo-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Embroidery Chain Knit Polo Cream</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/Hanoi-font.jpg">
-                    <div class="des">
-                        <h5>Hanoi Lover T-Shirt White</h5>
                         <h4>395.000₫</h4>
                     </div>
                 </div>
@@ -156,6 +110,13 @@
                         <h4>395.000₫</h4>
                     </div>
                 </div>
+                <div class="pro">
+                    <img src="~/Content/Img/Tshirt/Hanoi-font.jpg">
+                    <div class="des">
+                        <h5>Hanoi Lover T-Shirt White</h5>
+                        <h4>395.000₫</h4>
+                    </div>
+                </div>
             </div>
         </section>
     </div>
@@ -168,29 +129,26 @@
         <a href="#"><i class="fa-solid fa-greater-than"></i></a>
     </section>
 
-    <div>
-        @RenderBody()
-    </div>
-    <!--script cho sidebar bung ra-->
+    <!--script cho sidebar-->
     <script>
         const sidebarBtns = document.querySelectorAll('.sidebar-btn');
-
         sidebarBtns.forEach(btn => {
             btn.addEventListener('click', () => {
-                const submenu = btn.nextElementSibling; // ul.submenu
-                const icon = btn.querySelector('i');   // icon mũi tên
-
-                // Toggle hiển thị submenu
+                const submenu = btn.nextElementSibling;
+                const icon = btn.querySelector('i');
                 if (submenu.style.display === 'block') {
                     submenu.style.display = 'none';
-                    icon.style.transform = 'rotate(0deg)'; // icon quay về ban đầu
+                    icon.style.transform = 'rotate(0deg)';
                 } else {
                     submenu.style.display = 'block';
-                    icon.style.transform = 'rotate(180deg)'; // icon xoay xuống
+                    icon.style.transform = 'rotate(180deg)';
                 }
             });
         });
     </script>
+    <div>
+        @RenderBody()
+    </div>              
 
 </body>
 </html>
