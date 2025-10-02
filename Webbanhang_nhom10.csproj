@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\BestSellerController.cs" />
+    <Compile Include="Controllers\CollectionsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ShopController.cs" />
     <Compile Include="Controllers\TrangChuController.cs" />
@@ -163,6 +164,7 @@
     <Content Include="Content\Img\Tshirt\wild-west-back.jpg" />
     <Content Include="Content\Img\Tshirt\wild-west-font.jpg" />
     <Content Include="Content\page.style\bestseller-stylesheet.css" />
+    <Content Include="Content\page.style\Collection-Stylesheet.css" />
     <Content Include="Content\page.style\home-StyleSheet.css" />
     <Content Include="Content\page.style\Shop-StyleSheet.css" />
     <Content Include="favicon.ico" />
@@ -214,6 +216,8 @@
     <Content Include="Views\Shared\_LayoutShop.cshtml" />
     <Content Include="Views\Shared\_LayoutBestseller.cshtml" />
     <Content Include="Views\Bestseller\Index.cshtml" />
+    <Content Include="Views\Shared\_LayoutCollection.cshtml" />
+    <Content Include="Views\Collections\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
