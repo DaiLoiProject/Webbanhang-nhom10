@@ -19,7 +19,7 @@
 <body>
 
 
-    
+
     <!--Header-->
     <section id="header">
 
@@ -41,7 +41,13 @@
 
             <!-- Right: function icons -->
             <div class="header-right">
-                <a href="#"><i class="fas fa-search"></i></a>
+                <div class="search-box">
+                    <input class="search-box-input" type="text" placeholder="Search..." />
+                    <button class="search-box-btn">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </button>
+                </div>
+
                 <a href="#"><i class="fas fa-user"></i></a>
                 <a href="card.html"><i class="fa-solid fa-bag-shopping"></i></a>
             </div>
@@ -60,11 +66,28 @@
         </div>
     </section>
 
+
+
+
+
+    <!-- Banner -->
+
+    <section id="top-banner">
+
+        <div class="tbanner">
+            <img src="@Url.Content("~/Content/Img/Banner/Shop-banner/shop-banner-1.png")" alt="Shop Banner">
+        </div>
+
+    </section>
+
+
     <!--Hero-->
     <section id="hero">
+
         <h1>Products</h1>
         <p>Home / Products</p>
         <hr />
+
     </section>
 
     <!-- Container cho Sidebar và Product -->
@@ -100,77 +123,40 @@
         <!--product-->
         <section id="product1">
             <div class="pro-container">
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/ao-den-01-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Patch In Heart T-Shirt Black</h5>
-                        <h4>395.000₫</h4>
+                @foreach (var item in Model)
+                {
+                    <div class="pro">
+                        <a href="@Url.Action("Detail", "Shop", new { id = item.Id })">
+                            <img src="@item.Image" alt="@item.Name" />
+                        </a>
+                        <div class="des">
+                            <h5>@item.Name</h5>
+                            <h4>@item.Price</h4>
+                        </div>
                     </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/ao-trang-01-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Patch In Heart T-Shirt White</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/binh-tan-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Bình Tân Embroidered Polo Black</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/black-polo-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Rope Embroidery Knit Polo Black</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/cream-polo-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Embroidery Chain Knit Polo Cream</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/Hanoi-font.jpg">
-                    <div class="des">
-                        <h5>Hanoi Lover T-Shirt White</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/messi-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Striped Soccer Jersey Baby Blue White</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
-                <div class="pro">
-                    <img src="~/Content/Img/Tshirt/wild-west-font.jpg">
-                    <div class="des">
-                        <h5>DirtyCoins Wild West Fade Relaxed Tan</h5>
-                        <h4>395.000₫</h4>
-                    </div>
-                </div>
+                }
             </div>
         </section>
     </div>
 
     <!--Pagination-->
+
     <section id="pagination" class="section-p1">
-        <a href="#">1</a>
-        <a href="#">2</a>
-        <a href="#">3</a>
-        <a href="#"><i class="fa-solid fa-greater-than"></i></a>
+        <hr id="line" />
+        <div class="pages">
+
+            <a href="@Url.Action("Index", "Shop")">1</a>
+            <a href="#">2</a>
+            <a href="#">3</a>
+            <a href="#"><i class="fa-solid fa-greater-than"></i></a>
+        </div>
     </section>
+
 
     <div>
         @RenderBody()
     </div>
+
     <!--script cho sidebar bung ra-->
     <script>
         const sidebarBtns = document.querySelectorAll('.sidebar-btn');

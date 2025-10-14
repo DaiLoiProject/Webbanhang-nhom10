@@ -3,44 +3,60 @@
   "WorkspaceRootPath": "D:\\Huflit_web\\Sneaker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\_layoutcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\_layoutdetailproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutdetailproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\content\\page.style\\detail-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\detail-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\content\\page.style\\collection-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\collection-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\content\\page.style\\bestseller-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\bestseller-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\Sneaker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\sneaker\\views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,84 +83,133 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "bestseller-stylesheet.css",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\bestseller-stylesheet.css",
-              "RelativeDocumentMoniker": "Content\\page.style\\bestseller-stylesheet.css",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\bestseller-stylesheet.css",
-              "RelativeToolTip": "Content\\page.style\\bestseller-stylesheet.css",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:43:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop-StyleSheet.css",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\Shop-StyleSheet.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\Shop-StyleSheet.css",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\Shop-StyleSheet.css",
+              "RelativeToolTip": "Content\\page.style\\Shop-StyleSheet.css",
+              "ViewState": "AgIAAIEBAAAAAAAAAAAcwIsBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-02T00:33:11.23Z",
+              "WhenOpened": "2025-10-13T12:39:23.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_LayoutBestseller.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutBestseller.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutBestseller.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutBestseller.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutBestseller.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "detail-stylesheet.css",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\detail-stylesheet.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\detail-stylesheet.css",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\detail-stylesheet.css",
+              "RelativeToolTip": "Content\\page.style\\detail-stylesheet.css",
+              "ViewState": "AgIAAK8CAAAAAAAAAAAcwLwCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-09T00:07:41.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutDetailProduct.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutDetailProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutDetailProduct.cshtml",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutDetailProduct.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutDetailProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:35.181Z",
+              "WhenOpened": "2025-10-08T13:48:13.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Detail.cshtml",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:34.263Z",
+              "WhenOpened": "2025-10-08T13:05:26.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Bestseller\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Bestseller\\Index.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Bestseller\\Index.cshtml",
-              "RelativeToolTip": "Views\\Bestseller\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:24:27.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
               "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-02T00:14:31.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LayoutCollection.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutCollection.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCollection.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutCollection.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutCollection.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAABIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "_LayoutShop.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutShop.cshtml",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutShop.cshtml",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T13:55:13.3Z",
+              "WhenOpened": "2025-10-02T00:26:51.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Collections\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Collections\\Index.cshtml",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Collections\\Index.cshtml",
+              "RelativeToolTip": "Views\\Collections\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T14:04:58.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home-StyleSheet.css",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\home-StyleSheet.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\home-StyleSheet.css",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\home-StyleSheet.css",
+              "RelativeToolTip": "Content\\page.style\\home-StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-08T05:07:36.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutBestseller.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutBestseller.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutBestseller.cshtml",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutBestseller.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutBestseller.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T00:26:35.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Collection-Stylesheet.css",
               "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Content\\page.style\\Collection-Stylesheet.css",
               "RelativeDocumentMoniker": "Content\\page.style\\Collection-Stylesheet.css",
@@ -152,38 +217,35 @@
               "RelativeToolTip": "Content\\page.style\\Collection-Stylesheet.css",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-01T14:12:58.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T14:12:58.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_LayoutShop.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutShop.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_LayoutShop.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutShop.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:51.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Collections\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Collections\\Index.cshtml",
-              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Collections\\Index.cshtml",
-              "RelativeToolTip": "Views\\Collections\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Bestseller\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bestseller\\Index.cshtml",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Bestseller\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bestseller\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T14:04:58.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:24:27.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T00:26:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Home.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\Sneaker\\Views\\Shared\\Home.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Home.cshtml",
@@ -191,8 +253,7 @@
               "RelativeToolTip": "Views\\Shared\\Home.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:59.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:26:59.303Z"
             }
           ]
         }

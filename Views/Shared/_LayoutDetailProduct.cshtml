@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - Phoenix Shop</title>
+
+    <link href="@Url.Content("~/Content/page.style/detail-stylesheet.css")" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!--Header-->
+    <section id="header">
+        <div class="header-center-inner">
+            <!-- Left: social icons -->
+            <div class="header-left">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-tiktok"></i></a>
+            </div>
+
+            <!-- Center: logo -->
+            <div class="header-logo">
+                <a href="@Url.Action("Index", "TrangChu")">
+                    <img src="~/Pictures/Phoenix.png" class="logo" alt="Phoenix" width="100" height="100" />
+                </a>
+            </div>
+
+            <!-- Right: function icons -->
+            <div class="header-right">
+                <div class="search-box">
+                    <input class="search-box-input" type="text" placeholder="Search..." />
+                    <button class="search-box-btn">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </button>
+                </div>
+
+                <a href="#"><i class="fas fa-user"></i></a>
+                <a href="card.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            </div>
+        </div>
+
+        <div>
+            <ul id="navbar">
+                <li><a href="@Url.Action("Index", "TrangChu")">HOME</a></li>
+                <li><a href="@Url.Action("Index", "Shop")">SHOP</a></li>
+                <li><a href="@Url.Action("Index", "Bestseller")">BESTSELLERS</a></li>
+                <li><a href="@Url.Action("Index", "Collections")">COLLECTIONS</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Main content -->
+    <main class="main-container">
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; @DateTime.Now.Year - Phoenix Shop</p>
+    </footer>
+</body>
+</html>
