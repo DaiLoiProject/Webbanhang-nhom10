@@ -1,0 +1,97 @@
+﻿@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_LayoutDetailProduct.cshtml";
+}
+@model Webbanhang_nhom10.Models.Product
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+<script src="~/Scripts/Search-box.js"></script>
+
+<link href="@Url.Content("~/Content/page.style/detail-stylesheet.css")" rel="stylesheet" />
+
+
+
+<section class="product-detail">
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a href="@Url.Action("Index", "TrangChu")">Home</a> /
+        <a href="@Url.Action("Index", "Shop")">Shop</a> /
+        <span>@Model.Name</span>
+    </div>
+
+    <!-- Product main area -->
+    <div class="product-main">
+        <!-- Left: Image gallery -->
+        <div class="product-gallery">
+            <div class="thumbnails">
+                <img src="@Url.Content("~/Content/Img/Tshirt/ao-den-01-font.jpg")" alt="thumb1">
+                <img src="@Url.Content("~/Content/Img/Tshirt/ao-trang-01-font.jpg")" alt="thumb2">
+                <img src="@Url.Content("~/Content/Img/Tshirt/binh-tan-font.jpg")" alt="thumb3">
+                <img src="@Url.Content("~/Content/Img/Tshirt/black-polo-font.jpg")" alt="thumb4">
+            </div>
+
+            <div class="main-image">
+                <img id="mainImg" src="@Model.Image" alt="@Model.Name" />
+            </div>
+        </div>
+
+        <!-- Right: Product info -->
+        <div class="product-info">
+            <h1>@Model.Name</h1>
+            <p class="price">@Model.Price</p>
+            <p class="color">Color: <span>Black</span></p>
+
+            <!-- Quantity and buttons -->
+            <div class="actions">
+                <div class="quantity">
+                    <button class="minus">-</button>
+                    <input type="number" value="1" min="1" id="quantity">
+                    <button class="plus">+</button>
+                </div>
+                <button class="add-to-cart">Add to Cart</button>
+                <button class="buy-now">Buy with Shop</button>
+            </div>
+
+            <!-- Shipping info -->
+            <div class="extra-info">
+                <p>Order before 4PM for same-day shipping.</p>
+                <p>Pickup available at Phoenix Store.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Related products -->
+    <section class="related-products">
+        <h2>Related Products</h2>
+        <div class="product-grid">
+            <div class="product-card">
+                <img src="~/Pictures/related1.jpg" alt="Product 1">
+                <p>Precision Corset - 480.000đ</p>
+            </div>
+            <div class="product-card">
+                <img src="~/Pictures/related2.jpg" alt="Product 2">
+                <p>Shiny Corset - 320.000đ</p>
+            </div>
+            <div class="product-card">
+                <img src="~/Pictures/related3.jpg" alt="Product 3">
+                <p>Anna Trouser - 510.000đ</p>
+            </div>
+            <div class="product-card">
+                <img src="~/Pictures/related4.jpg" alt="Product 4">
+                <p>Tirail Skirt - 600.000đ</p>
+            </div>
+        </div>
+    </section>
+
+</section>
+
+<script>
+    // JS: đổi ảnh khi click thumbnail
+    const mainImg = document.getElementById('mainImg');
+    document.querySelectorAll('.thumbnails img').forEach(img => {
+        img.addEventListener('click', () => {
+            mainImg.src = img.src;
+        });
+    });
+</script>
