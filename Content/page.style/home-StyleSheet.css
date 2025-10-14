@@ -114,6 +114,7 @@ p {
             #navbar li a:hover,
             #navbar li a.active {
                 color: #963424;
+                
             }
 
                 #navbar li a.active::after,

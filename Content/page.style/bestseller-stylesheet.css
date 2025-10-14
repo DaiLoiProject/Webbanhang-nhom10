@@ -12,18 +12,18 @@
 h1 {
     font-size: 50px;
     line-height: 64px;
-    color: #;
+    
 }
 
 h2 {
     font-size: 22px;
     line-height: 54px;
-    color: #;
+  
 }
 
 h4 {
     font-size: 20px;
-    color: #;
+    
 }
 
 h6 {
@@ -33,7 +33,7 @@ h6 {
 
 p {
     font-size: 16px;
-    color: #;
+    
     margin: 15px 0 20px 0;
 }
 
@@ -113,6 +113,8 @@ p {
             #navbar li a:hover,
             #navbar li a.active {
                 color: #963424;
+
+
             }
 
                 #navbar li a.active::after,
@@ -322,13 +324,7 @@ p {
             color: rgb(243, 181, 25);
         }
 
-        #product1 .pro .des h4 {
-            padding-top: 7px;
-            font-size: 12px;
-            font-weight: 700;
-            color: black;
-        }
-
+       
         #product1 .pro .cart {
             /* tự thêm tên class cart sau tên icon */
             width: 40px;
@@ -346,7 +342,41 @@ p {
     #product1 .pro-container {
         display: flex;
         justify-content: space-between;
-        padding-top: 10px;
+        padding-top: 10px;  
         flex-wrap: wrap;
         /* cho phép các phần tử con tự động xuống dòng nếu không đủ không gian để nằm trên một hàng */
     }
+
+    #product1 .pro .des .product-price {
+        padding-top: 7px;
+        font-size: 12px;
+        font-weight: 700;
+        color: black;
+    }
+
+    #product1 .pro .des .old-price {
+        text-decoration: line-through ;
+        color: rgba(0,0,0,0.5);
+        font-size:12px;
+    }
+
+    #product1 .pro .des .new-price {
+        color: black;
+        color: black;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+#product1 .pro .des .giamgia {
+    background-color: #b94a3f;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+
+
+
+    
